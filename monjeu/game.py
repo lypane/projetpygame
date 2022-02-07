@@ -6,7 +6,7 @@ pygame.init()
 
 fenetre = pygame.display.set_mode((1880,1010 ))
 
-perso = pygame.image.load("perso.png").convert_alpha()
+perso = pygame.image.load("frites.png").convert_alpha()
 
 position_perso = perso.get_rect()
 
